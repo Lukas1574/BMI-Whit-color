@@ -1,3 +1,8 @@
+Coding BMI
+By:
+Owner: Lukas
+Programmer: Lukas and Julian
+
 #__________________________________________________________________________________________________________________#
 
 from colorama import Fore, Style, init
